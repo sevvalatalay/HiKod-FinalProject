@@ -1,5 +1,11 @@
 <h1>HiKod-FinalProject</h1>
 <h3>HiKod FrontEnd 8. Atölye Final Project</h3>
+<br><br>
+
+
+
+https://user-images.githubusercontent.com/128740214/236262551-7348515a-4647-48bb-b486-64e9458023a2.mp4
+
 
 
 
