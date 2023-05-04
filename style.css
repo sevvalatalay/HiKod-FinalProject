@@ -1,0 +1,134 @@
+body {
+  font-family: "Inter", sans-serif;
+  background: linear-gradient(#fff, #f3eef4);
+  font-size: 14.4px;
+  background-image: url(/images/gradient\ icon.jpeg);
+  cursor: url(/images/pngwing.com.png), auto;
+}
+
+.blog {
+  text-align: center;
+  font-size: 35px;
+  width: 100%;
+  padding-top: 10%;
+  margin: auto;
+}
+.blog a {
+  text-decoration: none;
+  color: black;
+}
+
+.catalogs {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  float: left;
+
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-color: #47365c;
+}
+
+.catalogs a {
+  font-weight: 100;
+  text-decoration: none;
+  padding-left: 1.7%;
+  padding-right: 1.3%;
+  font-weight: 500;
+}
+.catalogs a h4 {
+  font-weight: 100;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  color: #f3f3f3;
+}
+.catalogs a:hover {
+  background: linear-gradient(#776293, #5e487a);
+  transition: 500ms;
+  color: #4b3765;
+}
+
+.giris p {
+  font-size: large;
+  margin-top: 1%;
+  padding: 4%;
+}
+.mesleki p {
+  margin-top: 4%;
+  padding: 4%;
+  font-size: large;
+}
+
+.bilisim p {
+  margin-top: 4%;
+  padding: 4%;
+  font-size: large;
+}
+
+.ayrisim p {
+  margin-top: 4%;
+  padding: 4%;
+  font-size: large;
+}
+.sonuc p {
+  margin-top: 4%;
+  padding: 4%;
+  font-size: large;
+}
+.sonsoz p {
+  margin-top: 4%;
+  padding: 4%;
+  font-size: large;
+}
+
+.footer {
+  text-align: center;
+}
+.resim1 {
+  width: 27%;
+  float: right;
+  padding: 2%;
+}
+.resim2 {
+  width: 28%;
+  float: left;
+  padding: 2% 2% 2% 2%;
+  border-radius: 100px;
+}
+.resim3 {
+  width: 33%;
+  float: right;
+  padding: 2%;
+  border-radius: 80px;
+}
+.resim4 {
+  width: 33%;
+  float: left;
+  padding: 2.5%;
+  border-radius: 40px;
+}
+.resim5 {
+  width: 35%;
+  float: right;
+  padding: 2%;
+  border-radius: 10%;
+}
+.resim6 {
+  width: 30%;
+  float: left;
+  padding: 2%;
+  border-radius: 50px;
+}
+.resim7 {
+  width: 30%;
+  float: right;
+  padding: 2%;
+  border-radius: 40px;
+}
+
+b {
+  font-size: 30px;
+  font-weight: 500;
+}
