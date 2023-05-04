@@ -4,12 +4,16 @@
 
 
 
-https://user-images.githubusercontent.com/128740214/236262551-7348515a-4647-48bb-b486-64e9458023a2.mp4
 
 
 
 
-<br><br>
+https://user-images.githubusercontent.com/128740214/236263566-bf1a4813-e04a-4b38-977a-9dc484665d96.mp4
+
+
+
+
+<br><hr><br>
 
 ![Ekran Görüntüsü (115)](https://user-images.githubusercontent.com/128740214/236259629-c8b0e803-b102-4366-a8a7-691595fefbc6.png)
 ![Ekran Görüntüsü (116)](https://user-images.githubusercontent.com/128740214/236259687-5d3db854-e2b7-4295-abc9-db6ea8db0be9.png)
