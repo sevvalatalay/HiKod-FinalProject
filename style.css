@@ -28,6 +28,7 @@ body {
   position: -webkit-sticky;
   top: 0;
   background-color: #47365c;
+  margin-bottom: 2%;
 }
 
 .catalogs a {
